@@ -1,0 +1,15 @@
+{
+  "newUser": {
+    "name": "Nassim Test",
+    "email": "nassim_test@example.com",
+    "password": "password123",
+    "firstName": "Nassim",
+    "lastName": "Test",
+    "address": "123 Rue Test",
+    "country": "Canada",
+    "state": "QC",
+    "city": "Montreal",
+    "zipcode": "H1A1A1",
+    "mobile": "0612345678"
+  }
+}
